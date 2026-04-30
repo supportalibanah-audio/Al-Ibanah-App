@@ -200,9 +200,9 @@
     "data_doa": [
       {
         "no": 22,
-        "arab": "Mengucapkan seperti apa yang diucapkan oleh muadzin, kecuali pada kalimat 'Hayya 'alash shalaah' dan 'Hayya 'alal falaah', maka mengucapkan: لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ",
-        "terjemahan": "Tiada daya dan kekuatan kecuali dengan izin Allah",
-        "sumber": "HR. Bukhari dan Muslim"
+        "arab": "يَقُوْلُ مِثْلَ مَا يَقُوْلُ الْمُؤَذِّنُ إِلاَّ فِيْ (حَيََّ عَلَى الصَّلاَةِ وَ حَيََّ عَلَى الْفَلاَحِ) فَيُبْدِلُهُمَا: لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ",
+        "terjemahan": "Seseorang yang mendengarkan adzan, hendaklah mengucapkan sebagaimana yang diucapkan oleh muadzin, kecuali dalam kalimat: Hayya ‘alash shalaah dan Hayya ‘alal falaah. Maka mengucapkan: ’Laa haula wala quwwata Illa billah",
+        "sumber": "HR. Bukhari: 1/152, Muslim: 1/288"
       },
       {
         "no": 23,
@@ -245,13 +245,13 @@
     "kategori": "DOA RUKU",
     "data_doa": [
       {
-        "no": 33,
+        "no": 28,
         "arab": "سُبْحَانَ رَبِّيَ الْعَظِيْمِ (3x)",
         "terjemahan": "Maha Suci Tuhanku Yang Maha Agung",
         "sumber": "HR. Seluruh penyusun kitab Sunan"
       },
       {
-        "no": 34,
+        "no": 29,
         "arab": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِيْ",
         "terjemahan": "Maha Suci Engkau, ya Allah, Tuhan kami, dan dengan memuji-Mu, ya Allah ampunilah dosaku",
         "sumber": "HR. Bukhari dan Muslim"
@@ -262,13 +262,13 @@
     "kategori": "DOA BANGUN DARI RUKU (I'TIDAL)",
     "data_doa": [
       {
-        "no": 38,
+        "no": 30,
         "arab": "سَمِعَ اللهُ لِمَنْ حَمِدَهُ",
         "terjemahan": "Semoga Allah mendengar pujian orang yang memuji-Nya",
         "sumber": "HR. Bukhari"
       },
       {
-        "no": 39,
+        "no": 31,
         "arab": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيْرًا طَيِّبًا مُبَارَكًا فِيْهِ",
         "terjemahan": "Wahai Tuhan kami, bagi-Mu segala puji, pujian yang banyak, baik dan berkah di dalamnya",
         "sumber": "HR. Bukhari"
@@ -279,13 +279,13 @@
     "kategori": "DOA SUJUD",
     "data_doa": [
       {
-        "no": 41,
+        "no": 32,
         "arab": "سُبْحَانَ رَبِّيَ اْلأَعْلَى (3x)",
         "terjemahan": "Maha Suci Tuhanku, Yang Maha Tinggi",
         "sumber": "HR. Seluruh penyusun kitab Sunan"
       },
       {
-        "no": 44,
+        "no": 33,
         "arab": "اَللَّهُمَّ اغْفِرْ لِيْ ذَنْبِيْ كُلَّهُ، دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ وَعَلاَنِيَّتَهُ وَسِرَّهُ",
         "terjemahan": "Ya Allah, ampunilah seluruh dosaku, yang kecil dan yang besar, yang pertama dan yang terakhir, yang terang-terangan dan yang rahasia",
         "sumber": "HR. Muslim: 1/350"
@@ -296,13 +296,13 @@
     "kategori": "DOA DUDUK ANTARA DUA SUJUD",
     "data_doa": [
       {
-        "no": 48,
+        "no": 34,
         "arab": "رَبِّ اغْفِرْ لِيْ، رَبِّ اغْفِرْ لِيْ",
         "terjemahan": "Wahai Tuhanku, ampunilah dosaku, wahai Tuhanku, ampunilah dosaku",
         "sumber": "HR. Abu Dawud: 1/231"
       },
       {
-        "no": 49,
+        "no": 35,
         "arab": "اَللَّهُمَّ اغْفِرْ لِيْ وَارْحَمْنِيْ وَاهْدِنِيْ وَاجْبُرْنِيْ وَعَافِنِيْ وَارْزُقْنِيْ وَارْفَعْنِيْ",
         "terjemahan": "Ya Allah, ampunilah dosaku, belas kasihanilah aku, berilah petunjuk kepadaku, cukupkanlah kekuranganku, sehatkanlah aku, berilah rezeki kepadaku dan angkatlah derajatku",
         "sumber": "HR. Seluruh penyusun kitab Sunan kecuali An-Nasa'i"
@@ -313,7 +313,7 @@
     "kategori": "TASYAHUD",
     "data_doa": [
       {
-        "no": 51,
+        "no": 36,
         "arab": "التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِيْنَ. أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ",
         "terjemahan": "Segala penghormatan hanya milik Allah, juga segala pengagungan dan kebaikan. Semoga kesejahteraan tercurahkan kepadamu wahai Nabi, begitu juga rahmat dan berkah-Nya. Semoga kesejahteraan tercurahkan kepada kita dan hamba-hamba Allah yang shalih. Aku bersaksi bahwa tiada Tuhan yang berhak disembah selain Allah dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya",
         "sumber": "HR. Bukhari: 1/13 dan Muslim: 1/301"
@@ -324,7 +324,7 @@
     "kategori": "MEMBACA SHALAWAT NABI SETELAH TASYAHUD",
     "data_doa": [
       {
-        "no": 52,
+        "no": 37,
         "arab": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيْمَ وَعَلَى آلِ إِبْرَاهِيْمَ، إِنَّكَ حَمِيْدٌ مَجِيْدٌ. اَللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيْمَ وَعَلَى آلِ إِبْرَاهِيْمَ، إِنَّكَ حَمِيْدٌ مَجِيْدٌ",
         "terjemahan": "Ya Allah, berilah shalawat kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau telah memberi shalawat kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Agung. Ya Allah, berilah berkah kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau telah memberi berkah kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Agung",
         "sumber": "HR. Bukhari: 4/118 dan Muslim: 1/305"
@@ -335,13 +335,13 @@
     "kategori": "DOA SETELAH TASYAHUD AKHIR SEBELUM SALAM",
     "data_doa": [
       {
-        "no": 54,
+        "no": 38,
         "arab": "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ",
         "terjemahan": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari siksa kubur, siksa neraka Jahanam, fitnah kehidupan dan setelah mati, serta dari kejahatan fitnah Al-Masih Dajjal",
         "sumber": "HR. Bukhari: 2/102 dan Muslim: 1/412"
       },
       {
-        "no": 55,
+        "no": 39,
         "arab": "اَللَّهُمَّ إِنِّيْ ظَلَمْتُ نَفْسِيْ ظُلْمًا كَثِيْرًا، وَلاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ، فَاغْفِرْ لِيْ مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِيْ إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
         "terjemahan": "Ya Allah, sesungguhnya aku telah mendzalimi diriku sendiri dengan kedzaliman yang banyak, sedangkan tidak ada yang mengampuni dosa-dosa kecuali Engkau. Maka ampunilah aku dengan ampunan dari sisi-Mu dan belas kasihanilah aku, sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang",
         "sumber": "HR. Bukhari: 8/168 dan Muslim: 4/2078"
@@ -352,31 +352,31 @@
     "kategori": "DZIKIR SETELAH SHALAT",
     "data_doa": [
       {
-        "no": 66,
+        "no": 40,
         "arab": "أَسْتَغْفِرُ اللهَ (3x) اَللَّهُمَّ أَنْتَ السَّلاَمُ، وَمِنْكَ السَّلاَمُ، تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَاْلإِكْرَامِ",
         "terjemahan": "Aku minta ampun kepada Allah (3x). Ya Allah, Engkau Mahasejahtera dan dari-Mu kesejahteraan, Maha Berkah Engkau, wahai Tuhan Yang Memiliki Keagungan dan Kemuliaan",
         "sumber": "HR. Muslim: 1/414"
       },
       {
-        "no": 67,
+        "no": 41,
         "arab": "لاَ إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، اَللَّهُمَّ لاَ مَانِعَ لِمَا أَعْطَيْتَ، وَلاَ مُعْطِيَ لِمَا مَنَعْتَ، وَلاَ يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
         "terjemahan": "Tiada Tuhan yang berhak disembah selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan puja-puji. Dia Maha Kuasa atas segala sesuatu. Ya Allah, tidak ada yang mencegah apa yang Engkau berikan dan tidak ada yang memberi apa yang Engkau cegah. Tidak bermanfaat kekayaan bagi pemiliknya dari adzab-Mu",
         "sumber": "HR. Bukhari: 1/255 dan Muslim: 1/414"
       },
       {
-        "no": 70,
+        "no": 42,
         "arab": "سُبْحَانَ اللهِ (33x)، الْحَمْدُ لِلَّهِ (33x)، اللهُ أَكْبَرُ (33x). لاَ إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
         "terjemahan": "Maha Suci Allah (33x), Segala puji bagi Allah (33x), Allah Maha Besar (33x). Tiada Tuhan yang berhak disembah selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya puja-puji. Dia Maha Kuasa atas segala sesuatu",
         "sumber": "HR. Muslim: 1/418"
       },
       {
-        "no": 71,
+        "no": 43,
         "arab": "Membaca Surah Al-Ikhlas, Al-Falaq dan An-Naas setelah setiap shalat fardhu",
         "terjemahan": "Membaca surat Al-Ikhlas, Al-Falaq dan An-Naas",
         "sumber": "HR. Abu Dawud: 2/86 dan An-Nasa'i: 3/68"
       },
       {
-        "no": 72,
+        "no": 44,
         "arab": "Membaca Ayat Kursi setelah setiap shalat fardhu",
         "terjemahan": "Membaca Ayat Kursi",
         "sumber": "HR. An-Nasa'i dalam Amalul Yaum wal Lailah: 100"
@@ -387,7 +387,7 @@
     "kategori": "DOA SHALAT ISTIKHARAH",
     "data_doa": [
       {
-        "no": 74,
+        "no": 45,
         "arab": "اَللَّهُمَّ إِنِّيْ أَسْتَخِيْرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيْمِ... (doa panjang)",
         "terjemahan": "Ya Allah, sesungguhnya aku minta pilihan yang tepat kepada-Mu dengan ilmu-Mu dan aku mohon kekuatan kepada-Mu dengan kekuatan-Mu. Aku mohon kepada-Mu dengan kemurahan-Mu yang besar... (lanjutan doa sesuai kebutuhan urusan)",
         "sumber": "HR. Bukhari: 7/162"
@@ -399,91 +399,91 @@
     "keterangan": "Dibaca pagi hari setelah Subuh sampai matahari terbit, dan sore hari setelah Ashar sampai matahari terbenam.",
     "data_doa": [
       {
-        "no": 75,
+        "no": 46,
         "arab": "Membaca Ayat Kursi (QS. Al-Baqarah: 255)",
         "terjemahan": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya)...",
         "sumber": "HR. An-Nasa'i, Siapa yang membacanya di pagi hari akan dilindungi dari jin hingga sore, dan sebaliknya "
       },
       {
-        "no": 76,
+        "no": 47,
         "arab": "Membaca Surah Al-Ikhlas, Al-Falaq, dan An-Naas (3x)",
         "terjemahan": "Membaca masing-masing surat sebanyak 3 kali.",
         "sumber": "HR. Abu Dawud dan Tirmidzi, cukuplah bagimu (sebagai perlindungan) dari segala sesuatu "
       },
       {
-        "no": 77,
+        "no": 48,
         "arab": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ. رَبِّ أَسْأَلُكَ خَيْرَ مَا فِيْ هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوْذُ بِكَ مِنْ شَرِّ مَا فِيْ هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ...",
         "terjemahan": "Kami telah memasuki waktu pagi dan kerajaan milik Allah, segala puji bagi Allah. Tidak ada Tuhan yang berhak disembah selain Allah Yang Maha Esa... Ya Tuhanku, aku mohon kepada-Mu kebaikan hari ini dan kebaikan sesudahnya...",
         "sumber": "HR. Muslim: 4/2088 "
       },
       {
-        "no": 78,
+        "no": 49,
         "arab": "اَللَّهُمَّ أَنْتَ رَبِّيْ لاَ إِلَهَ إِلاَّ أَنْتَ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوْءُ بِذَنْبِيْ فَاغْفِرْ لِيْ فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ",
         "terjemahan": "Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak disembah selain Engkau. Engkau yang menciptakan aku dan aku adalah hamba-Mu... Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, maka ampunilah aku...",
         "sumber": "HR. Bukhari: 7/150 (Sayyidul Istighfar) "
       },
       {
-        "no": 81,
+        "no": 50,
         "arab": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَاْلآخِرَةِ، اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ: فِيْ دِيْنِيْ وَدُنْيَايَ وَأَهْلِيْ وَمَالِيْ...",
         "terjemahan": "Ya Allah, sesungguhnya aku mohon ampunan dan keselamatan di dunia dan akhirat. Ya Allah, aku mohon ampunan dan keselamatan dalam agamaku, duniaku, keluargaku dan hartaku...",
         "sumber": "HR. Abu Dawud dan Ibnu Majah "
       },
       {
-        "no": 83,
+        "no": 51,
         "arab": "بِسْمِ اللهِ الَّذِيْ لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي اْلأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيْعُ الْعَلِيْمُ (3x)",
         "terjemahan": "Dengan nama Allah yang bila disebut, segala sesuatu di bumi dan langit tidak akan berbahaya, Dia-lah Yang Maha Mendengar lagi Maha Mengetahui",
         "sumber": "HR. Abu Dawud dan Tirmidzi "
       },
       {
-        "no": 84,
+        "no": 52,
         "arab": "اللَّهُمَّ عافِنِي في بَدَنِي، اللَّهُمَّ عافِنِي في سَمْعِي، اللَّهُمَّ عافِنِي في بَصَرِي، لا إِلهَ إِلاَّ أَنْتَ. اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالفَقْرِ، وَأَعُوذُ بِكَ مِنْ عَذَابِ القَبْرِ، لا إِلهَ إِلاَّ أَنْتَ (3x)",
         "terjemahan": "Ya Allah, selamatkanlah tubuhku. Ya Allah, selamatkanlah pendengaranku. Ya Allah, selamatkanlah penglihatanku. Tiada Tuhan yang berhak disembah selain Engkau. Ya Allah, aku berlindung kepada-Mu dari kekafiran dan kefakiran. Aku berlindung kepada-Mu dari siksa kubur, tiada Tuhan selain Engkau",
         "sumber": "HR. Abu Dawud, Ahmad, dan An-Nasa'i"
       },
       {
-        "no": 85,
+        "no": 53,
         "arab": "حَسْبِيَ اللَّهُ لا إِلهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ العَرْشِ العَظِيمِ (7x)",
         "terjemahan": "Cukuplah Allah bagiku, tidak ada Tuhan yang berhak disembah selain Dia. Kepada-Nya aku bertawakal dan Dia adalah Tuhan Arsy yang Agung",
         "sumber": "HR. Ibnu As-Sunni dan Abu Dawud. Allah akan mencukupkan apa yang diinginkannya (dunia dan akhirat)"
       },
       {
-        "no": 86,
+        "no": 54,
         "arab": "اللَّهُمَّ إِنِّي أَسْأَلُكَ العَفْوَ وَالعافِيَةَ في الدُّنْيا وَالآخِرَةِ...",
         "terjemahan": "Ya Allah, aku mohon ampunan dan keselamatan di dunia dan akhirat... (Doa perlindungan dari depan, belakang, kanan, kiri, dan atas)",
         "sumber": "HR. Abu Dawud dan Ibnu Majah"
       },
       {
-        "no": 87,
+        "no": 55,
         "arab": "اللَّهُمَّ عالِمَ الغَيْبِ وَالشَّهادَةِ فاطِرَ السَّماواتِ وَالأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لا إِلهَ إِلاَّ أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطانِ وَشِرْكِهِ...",
         "terjemahan": "Ya Allah, Yang Mengetahui hal yang ghaib dan yang nyata, Pencipta langit dan bumi, Tuhan segala sesuatu... Aku berlindung dari kejahatan diriku dan godaan setan serta sekutunya",
         "sumber": "HR. Tirmidzi dan Abu Dawud"
       },
       {
-        "no": 91,
+        "no": 56,
         "arab": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ، أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلا تَكِلْنِي إِلى نَفْسِي طَرْفَةَ عَيْنٍ",
         "terjemahan": "Wahai Yang Maha Hidup, wahai Yang Berdiri Sendiri, dengan rahmat-Mu aku minta pertolongan, perbaikilah segala urusanku dan janganlah Engkau serahkan kepadaku walau sekejap mata",
         "sumber": "HR. Al-Hakim, menshahihkannya dan disetujui oleh Adz-Dzahabi"
       },
       {
-        "no": 93,
+        "no": 57,
         "arab": "أَصْبَحْنَا عَلَى فِطْرَةِ اْلإِسْلاَمِ، وَعَلَى كَلِمَةِ اْلإِخْلاَصِ، وَعَلَى دِيْنِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِيْنَا إِبْرَاهِيْمَ، حَنِيْفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِيْنَ",
         "terjemahan": "Kami di waktu pagi di atas fitrah Islam, kalimat ikhlas, agama Nabi kita Muhammad ﷺ, dan agama ayah kami Ibrahim yang berdiri di atas jalan yang lurus lagi muslim",
         "sumber": "HR. Ahmad dan Ibnu As-Sunni"
       },
       {
-        "no": 94,
+        "no": 58,
         "arab": "سُبْحَانَ اللهِ وَبِحَمْدِهِ (100x)",
         "terjemahan": "Maha Suci Allah dan dengan memuji-Nya",
         "sumber": "HR. Muslim. Siapa yang membacanya 100x, maka pada hari kiamat tidak ada yang membawa amal lebih baik darinya kecuali orang yang membaca hal yang sama atau lebih"
       },
       {
-        "no": 98,
+        "no": 59,
         "arab": "أَعُوْذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ (3x saat petang)",
         "terjemahan": "Aku berlindung dengan kalimat Allah yang sempurna dari kejahatan apa yang Dia ciptakan",
         "sumber": "HR. Ahmad dan Tirmidzi. Siapa yang membacanya di sore hari akan terhindar dari bahaya (sengatan binatang, dll) malam itu"
       },
       {
-        "no": 100,
+        "no": 60,
         "arab": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ (10x)",
         "terjemahan": "Ya Allah, limpahkanlah shalawat dan salam kepada Nabi kami Muhammad",
         "sumber": "HR. At-Thabrani. Siapa yang bershalawat 10x pagi dan sore akan mendapat syafaatku di hari kiamat"
@@ -494,43 +494,43 @@
     "kategori": "DZIKIR MENJELANG TIDUR",
     "data_doa": [
       {
-        "no": 101,
+        "no": 61,
         "arab": "Membaca Surah Al-Ikhlas, Al-Falaq dan An-Naas",
         "keterangan": "Meniupkan ke kedua telapak tangan lalu mengusap seluruh tubuh yang dapat dijangkau, dimulai dari kepala, wajah, dan bagian depan tubuh (3x)",
         "sumber": "HR. Bukhari dengan Fathul Bari: 9/62 dan Muslim: 4/1723"
       },
       {
-        "no": 102,
-        "arab": "Membaca Ayat Kursi (QS. Al-Baqarah: 255)",
-        "terjemahan": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya)...",
+        "no": 62,
+        "arab": "اَللّٰهُ لَآ اِلٰهَ اِلَّا هُوَۚ اَلْحَيُّ الْقَيُّوْمُ ەۚ لَا تَأْخُذُهٗ سِنَةٌ وَّلَا نَوْمٌۗ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِۗ مَنْ ذَا الَّذِيْ يَشْفَعُ عِنْدَهٗٓ اِلَّا بِاِذْنِهٖۗ يَعْلَمُ مَا بَيْنَ اَيْدِيْهِمْ وَمَا خَلْفَهُمْۚ وَلَا يُحِيْطُوْنَ بِشَيْءٍ مِّنْ عِلْمِهٖٓ اِلَّا بِمَا شَاۤءَۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْاَرْضَۚ وَلَا يَـُٔوْدُهٗ حِفْظُهُمَاۚ وَهُوَ الْعَلِيُّ الْعَظِيْمُ",
+        "terjemahan": "(Membaca Ayat Kursi) Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya)...",
         "sumber": "HR. Bukhari dengan Fathul Bari: 4/487. Barang siapa membacanya, maka akan selalu ada penjaga dari Allah dan setan tidak akan mendekat hingga pagi"
       },
       {
-        "no": 103,
+        "no": 63,
         "arab": "Membaca dua ayat terakhir surat Al-Baqarah (285-286)",
         "terjemahan": "Rasul telah beriman kepada Al-Quran yang diturunkan kepadanya dari Tuhannya, demikian pula orang-orang yang beriman...",
         "sumber": "HR. Bukhari dengan Fathul Bari: 9/94 dan Muslim: 1/554. Barang siapa membacanya pada malam hari, maka cukup baginya (dari segala keburukan)"
       },
       {
-        "no": 104,
+        "no": 64,
         "arab": "بِاسْمِكَ رَبِّ وَضَعْتُ جَنْبِيْ، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِيْ فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِيْنَ",
         "terjemahan": "Dengan nama-Mu, wahai Tuhanku, aku meletakkan lambungku dan dengan Nama-Mu aku mengangkatnya. Jika Engkau menahan nyawaku, maka berilah rahmat kepadanya, dan jika Engkau melepaskannya, maka peliharalah sebagaimana Engkau memelihara hamba-hamba-Mu yang shalih",
         "sumber": "HR. Bukhari: 11/126 dan Muslim: 4/2084"
       },
       {
-        "no": 105,
+        "no": 65,
         "arab": "اَللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسِيْ وَأَنْتَ تَوَفَّاهَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا، وَإِنْ أَمَاتَتَهَا فَاغْفِرْ لَهَا. اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ الْعَافِيَةَ",
         "terjemahan": "Ya Allah, sesungguhnya Engkau yang menciptakan nyawaku dan Engkaulah yang mematikannya. Mati dan hidupnya hanya milik-Mu. Jika Engkau menghidupkannya, maka peliharalah, dan jika Engkau mematikannya, maka ampunilah. Ya Allah, aku mohon kepada-Mu keselamatan",
         "sumber": "HR. Muslim: 4/2083"
       },
       {
-        "no": 106,
+        "no": 66,
         "arab": "اَللَّهُمَّ قِنِيْ عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ (3x)",
         "terjemahan": "Ya Allah, peliharalah aku dari azab-Mu pada hari Engkau membangkitkan hamba-hamba-Mu",
         "sumber": "HR. Abu Dawud: 4/311 dan Tirmidzi: 3/143"
       },
       {
-        "no": 107,
+        "no": 67,
         "arab": "بِاسْمِكَ اللَّهُمَّ أَمُوْتُ وَأَحْيَا",
         "terjemahan": "Dengan nama-Mu, ya Allah, aku mati dan aku hidup",
         "sumber": "HR. Bukhari dengan Fathul Bari: 11/113 dan Muslim: 4/2083"
@@ -541,19 +541,19 @@
     "kategori": "LANJUTAN DZIKIR MENJELANG TIDUR",
     "data_doa": [
       {
-        "no": 108,
+        "no": 68,
         "arab": "سُبْحَانَ اللهِ (33x)، الْحَمْدُ لِلَّهِ (33x)، اللهُ أَكْبَرُ (34x)",
         "terjemahan": "Maha Suci Allah (33x), Segala puji bagi Allah (33x), Allah Maha Besar (34x)",
         "sumber": "HR. Bukhari dengan Fathul Bari: 7/71 dan Muslim: 4/2091"
       },
       {
-        "no": 109,
+        "no": 69,
         "arab": "اَللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَرَبَّ الْعَرْشِ الْعَظِيْمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَاْلإِنْجِيْلِ وَالْفُرْقَانِ، أَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ... (doa panjang)",
         "terjemahan": "Ya Allah, Tuhan langit yang tujuh dan Tuhan Arsy yang agung, Tuhan kami dan Tuhan segala sesuatu... Aku berlindung kepada-Mu dari kejahatan segala sesuatu yang Engkau pegang ubun-ubunnya...",
         "sumber": "HR. Muslim: 4/2084"
       },
       {
-        "no": 111,
+        "no": 70,
         "arab": "اَللَّهُمَّ أَسْلَمْتُ نَفْسِيْ إِلَيْكَ، وَفَوَّضْتُ أَمْرِيْ إِلَيْكَ، وَوَجَّهْتُ وَجْهِيْ إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِيْ إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِيْ أَنْزَلْتَ وَبِنَبِيِّكَ الَّذِيْ أَرْسَلْتَ",
         "terjemahan": "Ya Allah, aku menyerahkan diriku kepada-Mu, aku menyerahkan urusanku kepada-Mu, aku menghadapkan wajahku kepada-Mu... Aku beriman kepada kitab yang Engkau turunkan dan kepada Nabi yang Engkau utus",
         "sumber": "HR. Bukhari dengan Fathul Bari: 11/113 dan Muslim: 4/2081"
@@ -564,7 +564,7 @@
     "kategori": "DOA JIKA MEMBALIKKAN TUBUH DI MALAM HARI",
     "data_doa": [
       {
-        "no": 112,
+        "no": 71,
         "arab": "لاَ إِلَهَ إِلاَّ اللهُ الْوَاحِدُ الْقَهَّارُ، رَبُّ السَّمَاوَاتِ وَاْلأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيْزُ الْغَفَّارُ",
         "terjemahan": "Tiada Tuhan yang berhak disembah selain Allah Yang Maha Esa lagi Maha Perkasa, Tuhan langit dan bumi dan apa yang ada di antara keduanya, Yang Maha Perkasa lagi Maha Pengampun",
         "sumber": "HR. Al-Hakim, ia menshahihkannya dan disetujui oleh Adz-Dzahabi: 1/540"
@@ -575,7 +575,7 @@
     "kategori": "DOA APABILA MERASA TAKUT DAN KESEPIAN SAAT TIDUR",
     "data_doa": [
       {
-        "no": 113,
+        "no": 72,
         "arab": "أَعُوْذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَأَنْ يَحْضُرُوْنِ",
         "terjemahan": "Aku berlindung dengan kalimat Allah yang sempurna dari murka dan siksaan-Nya, dari kejahatan hamba-hamba-Nya, dan dari godaan setan serta kehadirannya di hadapanku",
         "sumber": "HR. Abu Dawud: 4/12 dan Shahih Tirmidzi: 3/171"
@@ -586,7 +586,8 @@
     "kategori": "APA YANG DILAKUKAN JIKA BERMIMPI BURUK",
     "data_doa": [
       {
-        "no": 114,
+        "no": 73,
+        "arab": "• يَنْفُثُ عَنْ يَسَارِهِ (ثلاثا). • يَسْتَعِيْذُ بِاللهِ مِنَ الشَّيْطَانِ وَمِنْ شَرِّ مَا رَأَى (ثلاث مرات). • لاَ يُحَدِّثْ بِهَا أَحَداً. • يَتَحَوَّلُ عَنْ جَنْبِهِ الَّذِي كَانَ عَلَيْهِ. • يَقُوْمُ يُصَلِّي إِنْ أَرَادَ ذَلِكَ.",
         "keterangan": "1. Meludah ke kiri 3 kali. 2. Memohon perlindungan kepada Allah dari setan dan keburukan mimpi (3x). 3. Jangan menceritakan mimpi itu kepada siapa pun. 4. Membalikkan tubuh (mengubah posisi tidur).",
         "sumber": "HR. Muslim: 4/1772"
       }
@@ -596,7 +597,7 @@
     "kategori": "DOA QUNUT WITIR",
     "data_doa": [
       {
-        "no": 115,
+        "no": 74,
         "arab": "اَللَّهُمَّ اهْدِنِيْ فِيْمَنْ هَدَيْتَ، وَعَافِنِيْ فِيْمَنْ عَافَيْتَ، وَتَوَلَّنِيْ فِيْمَنْ تَوَلَّيْتَ، وَبَارِكْ لِيْ فِيْمَا أَعْطَيْتَ، وَقِنِيْ شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِيْ وَلاَ يُقْضَى عَلَيْكَ، إِنَّهُ لاَ يَذِلُّ مَنْ وَالَيْتَ، (وَلاَ يَعِزُّ مَنْ عَادَيْتَ)، تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ",
         "terjemahan": "Ya Allah, berilah aku petunjuk sebagaimana orang-orang yang telah Engkau beri petunjuk. Berilah aku kesehatan sebagaimana orang-orang yang telah Engkau beri kesehatan. Sayangilah aku sebagaimana orang-orang yang telah Engkau sayangi... Maha Berkah Engkau, wahai Tuhan kami dan Maha Tinggi",
         "sumber": "HR. Seluruh penyusun kitab Sunan"
@@ -607,7 +608,7 @@
     "kategori": "DZIKIR SETELAH SALAM SHALAT WITIR",
     "data_doa": [
       {
-        "no": 117,
+        "no": 75,
         "arab": "سُبْحَانَ الْمَلِكِ الْقُدُّوْسِ (3x)",
         "keterangan": "Pada bacaan ketiga, suara dinyaringkan dan dipanjangkan (Maha Suci Raja Yang Maha Kudus)",
         "sumber": "HR. An-Nasa'i: 3/244 dan Daruquthni"
@@ -618,13 +619,13 @@
     "kategori": "DOA SAAT DIRUNDUNG DUKA DAN SEDIH",
     "data_doa": [
       {
-        "no": 119,
+        "no": 76,
         "arab": "اَللَّهُمَّ إِنِّيْ عَبْدُكَ، ابْنُ عَبْدِكَ، ابْنُ أَمَتِكَ، نَاصِيَتِيْ بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ، أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ سَمَّيْتَ بِهِ نَفْسَكَ... أَنْ تَجْعَلَ الْقُرْآنَ رَبِيْعَ قَلْبِيْ، وَنُوْرَ صَدْرِيْ، وَجَلاَءَ حُزْنِيْ، وَذَهَابَ هَمِّيْ",
         "terjemahan": "Ya Allah, sesungguhnya aku adalah hamba-Mu, anak hamba laki-laki-Mu, dan anak hamba perempuan-Mu. Ubun-ubunku di tangan-Mu... jadikanlah Al-Qur'an sebagai penyejuk hatiku, cahaya dadaku, pengusir kesedihanku dan penghilang kebingunganku",
         "sumber": "HR. Ahmad: 1/391"
       },
       {
-        "no": 120,
+        "no": 77,
         "arab": "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
         "terjemahan": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari keluh kesah dan kesedihan, lemah dan malas, kikir dan penakut, lilitan hutang dan penindasan orang",
         "sumber": "HR. Bukhari: 7/158"
@@ -635,7 +636,7 @@
     "kategori": "DOA UNTUK KESUSAHAN (KORB)",
     "data_doa": [
       {
-        "no": 121,
+        "no": 78,
         "arab": "لاَ إِلَهَ إِلاَّ اللهُ الْعَظِيْمُ الْحَلِيْمُ، لاَ إِلَهَ إِلاَّ اللهُ رَبُّ الْعَرْشِ الْعَظِيْمِ، لاَ إِلَهَ إِلاَّ اللهُ رَبُّ السَّمَاوَاتِ وَرَبُّ اْلأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيْمِ",
         "terjemahan": "Tiada Tuhan yang berhak disembah selain Allah Yang Maha Agung lagi Maha Lembut. Tiada Tuhan selain Allah, Tuhan Arsy yang Agung. Tiada Tuhan selain Allah, Tuhan langit, bumi, dan Arsy yang Mulia",
         "sumber": "HR. Bukhari: 7/154 dan Muslim: 4/2092"
@@ -646,13 +647,13 @@
     "kategori": "DOA SAAT BERTEMU MUSUH DAN PENGUASA",
     "data_doa": [
       {
-        "no": 124,
+        "no": 79,
         "arab": "اَللَّهُمَّ إِنَّا نَجْعَلُكَ فِيْ نُحُوْرِهِمْ وَنَعُوْذُ بِكَ مِنْ شُرُوْرِهِمْ",
         "terjemahan": "Ya Allah, sesungguhnya kami menjadikan Engkau di leher mereka (agar kekuatan mereka tidak berdaya) dan kami berlindung kepada-Mu dari kejahatan mereka",
         "sumber": "HR. Abu Dawud: 2/89 dan Al-Hakim menshahihkannya: 2/142"
       },
       {
-        "no": 125,
+        "no": 80,
         "arab": "اَللَّهُمَّ أَنْتَ عَضُدِيْ، وَأَنْتَ نَصِيْرِيْ، بِكَ أَجُوْلُ، وَبِكَ أَصُوْلُ، وَبِكَ أُقَاتِلُ",
         "terjemahan": "Ya Allah, Engkau adalah pembelaku dan Engkau adalah penolongku. Dengan pertolongan-Mu aku bergerak, dengan pertolongan-Mu aku menyerbu dan dengan pertolongan-Mu aku berperang",
         "sumber": "HR. Abu Dawud: 3/42 dan Tirmidzi: 5/572"
@@ -663,7 +664,7 @@
     "kategori": "DOA SAAT TAKUT MENGHADAPI PENGUASA DZALIM",
     "data_doa": [
       {
-        "no": 127,
+        "no": 81,
         "arab": "لاَ إِلَهَ إِلاَّ اللهُ الْحَلِيْمُ الْكَرِيْمُ، سُبْحَانَ اللهِ رَبِّ السَّمَاوَاتِ السَّبْعِ وَرَبِّ الْعَرْشِ الْعَظِيْمِ، لاَ إِلَهَ إِلاَّ أَنْتَ، عَزَّ جَارُكَ، وَجَلَّ ثَنَاؤُكَ",
         "terjemahan": "Tiada Tuhan yang berhak disembah selain Allah Yang Maha Lembut lagi Maha Mulia. Maha Suci Allah, Tuhan langit yang tujuh dan Tuhan Arsy yang Agung. Tiada Tuhan selain Engkau, sungguh kuat perlindungan-Mu dan Maha Tinggi puji-Mu",
         "sumber": "HR. Ahmad: 1/402 dan Thabrani"
@@ -674,19 +675,19 @@
     "kategori": "DOA BAGI YANG MENGALAMI KERAGUAN DALAM IMAN",
     "data_doa": [
       {
-        "no": 133,
+        "no": 82,
         "arab": "أَعُوْذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
         "terjemahan": "Aku berlindung kepada Allah dari godaan setan yang terkutuk (kemudian berhenti dari keraguan tersebut)",
         "sumber": "HR. Bukhari: 6/336 dan Muslim: 1/120"
       },
       {
-        "no": 134,
+        "no": 83,
         "arab": "آمَنْتُ بِاللهِ وَرُسُلِهِ",
         "terjemahan": "Aku beriman kepada Allah dan para utusan-Nya",
         "sumber": "HR. Muslim: 1/119-120"
       },
       {
-        "no": 135,
+        "no": 84,
         "arab": "هُوَ اْلأَوَّلُ وَاْلآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ، وَهُوَ بِكُلِّ شَيْءٍ عَلِيْمٌ",
         "terjemahan": "Dialah Yang Awal dan Yang Akhir, Yang Nyata dan Yang Batin; dan Dia Maha Mengetahui segala sesuatu",
         "sumber": "HR. Abu Dawud: 4/329 (QS. Al-Hadid: 3)"
@@ -697,13 +698,13 @@
     "kategori": "DOA AGAR DAPAT MELUNASI HUTANG",
     "data_doa": [
       {
-        "no": 136,
+        "no": 85,
         "arab": "اَللَّهُمَّ اكْفِنِيْ بِحَلاَلِكَ عَنْ حَرَامِكَ وَأَغْنِنِيْ بِفَضْلِكَ عَمَّنْ سِوَاكَ",
         "terjemahan": "Ya Allah, cukupkanlah aku dengan rezeki-Mu yang halal (sehingga terhindar) dari yang haram, dan kayakanlah aku dengan keutamaan-Mu (sehingga tidak butuh) kepada selain-Mu",
         "sumber": "HR. Tirmidzi: 5/560 dan Al-Hakim menshahihkannya"
       },
       {
-        "no": 137,
+        "no": 86,
         "arab": "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ... وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
         "terjemahan": "Ya Allah, aku berlindung kepada-Mu dari keluh kesah dan kesedihan... lilitan hutang dan penindasan orang",
         "sumber": "HR. Bukhari: 7/158"
@@ -714,7 +715,7 @@
     "kategori": "DOA SAAT TERJADI WAS-WAS DALAM SHALAT ATAU MEMBACA AL-QURAN",
     "data_doa": [
       {
-        "no": 138,
+        "no": 87,
         "arab": "أَعُوْذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
         "keterangan": "Membaca ta'awudz lalu meludah kecil ke kiri 3 kali.",
         "sumber": "HR. Muslim: 4/1729"
@@ -725,7 +726,7 @@
     "kategori": "DOA SAAT MENGALAMI KESULITAN DALAM SUATU URUSAN",
     "data_doa": [
       {
-        "no": 139,
+        "no": 88,
         "arab": "اَللَّهُمَّ لاَ سَهْلَ إِلاَّ مَا جَعَلْتَهُ سَهْلاً، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلاً",
         "terjemahan": "Ya Allah, tidak ada kemudahan kecuali apa yang Engkau jadikan mudah. Dan Engkau menjadikan kesedihan (kesulitan), jika Engkau menghendaki, menjadi mudah",
         "sumber": "HR. Ibnu Hibban dalam kitab Shahihnya: 3/255 dan Ibnu As-Sunni"
@@ -736,7 +737,8 @@
     "kategori": "BACAAN KETIKA MELAKUKAN DOSA (SHALAT TAUBAT)",
     "data_doa": [
       {
-        "no": 140,
+        "no": 89,
+        "arab": "مَا مِنْ عَبْدٍ يُذْنِبُ ذَنْباً فَيُحْسِنُ الطُّهُوْرَ، ثُمَّ يَقُوْمُ فَيُصَلِّي رَكْعَتَيْنِ، ثُمَّ يَسْتَغْفِرُ اللهَ إِلاَّ غَفَرَ اللهُ لَهُ",
         "keterangan": "Tidaklah seorang hamba melakukan dosa, lalu ia berwudhu dengan baik, kemudian berdiri melakukan shalat dua rakaat, setelah itu memohon ampunan kepada Allah, melainkan Allah akan mengampuninya.",
         "sumber": "HR. Abu Dawud: 2/86 dan Tirmidzi: 2/257"
       }
@@ -746,19 +748,19 @@
     "kategori": "DOA MENGUSIR SETAN DAN BISIKANNYA",
     "data_doa": [
       {
-        "no": 141,
+        "no": 90,
         "arab": "أَعُوْذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
         "terjemahan": "Aku berlindung kepada Allah dari godaan setan yang terkutuk",
         "sumber": "HR. Abu Dawud: 4/325 dan Tirmidzi: 5/490"
       },
       {
-        "no": 142,
+        "no": 91,
         "arab": "Membaca Adzan",
         "keterangan": "Setan akan lari ketika mendengar suara adzan.",
         "sumber": "HR. Muslim: 1/291 dan Bukhari: 1/151"
       },
       {
-        "no": 143,
+        "no": 91,
         "arab": "Membaca Al-Qur'an dan Dzikir",
         "keterangan": "Terutama membaca surat Al-Baqarah, karena setan tidak akan masuk ke rumah yang dibacakan surat Al-Baqarah.",
         "sumber": "HR. Muslim: 1/539"
@@ -769,7 +771,7 @@
     "kategori": "DOA SAAT TERJADI SESUATU YANG TIDAK DIINGINKAN",
     "data_doa": [
       {
-        "no": 144,
+        "no": 92,
         "arab": "قَدَرُ اللهِ وَمَا شَاءَ فَعَلَ",
         "terjemahan": "Allah telah menakdirkan, dan apa yang Dia kehendaki, Dia lakukan",
         "sumber": "HR. Muslim: 4/2052"
@@ -780,7 +782,7 @@
     "kategori": "DOA PERLINDUNGAN BAGI ANAK",
     "data_doa": [
       {
-        "no": 145,
+        "no": 93,
         "arab": "أُعِيْذُكُمَا بِكَلِمَاتِ اللهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ",
         "terjemahan": "Aku berlindung kepada Allah untukmu berdua, dengan kalimat-kalimat Allah yang sempurna, dari setiap setan, binatang berbisa dan dari setiap mata yang jahat",
         "sumber": "HR. Bukhari: 4/119"
@@ -791,13 +793,13 @@
     "kategori": "DOA KEPADA ORANG YANG SAKIT",
     "data_doa": [
       {
-        "no": 146,
+        "no": 94,
         "arab": "لاَ بَأْسَ طَهُوْرٌ إِنْ شَاءَ اللهُ",
         "terjemahan": "Tidak mengapa, semoga sakitmu ini membuat dosamu bersih, insya Allah",
         "sumber": "HR. Bukhari dengan Fathul Bari: 10/118"
       },
       {
-        "no": 147,
+        "no": 95,
         "arab": "أَسْأَلُ اللهَ الْعَظِيْمَ رَبَّ الْعَرْشِ الْعَظِيْمِ أَنْ يَشْفِيَكَ (7x)",
         "terjemahan": "Aku mohon kepada Allah Yang Maha Agung, Tuhan Arsy yang agung, semoga Dia menyembuhkanmu",
         "sumber": "HR. Abu Dawud dan Tirmidzi. Siapa yang membacanya 7x di hadapan orang sakit yang belum tiba ajalnya, Allah akan menyembuhkannya"
@@ -808,7 +810,8 @@
     "kategori": "KEUTAMAAN MENGUNJUNGI ORANG SAKIT",
     "data_doa": [
       {
-        "no": 148,
+        "no": 96,
+        "arab": "قَالَ: إِذاَ عاَدَ الرَّجُلُ أَخَاهُ الْمُسْلِمَ مَشَى فِي خِرَافَةِ الْجَنَّةِ حَتَّى يَجْلِسَ فَإِذَا جَلَسَ غَمَرَتْهُ الرَّحْمَةُ، فَإِنْ كَانَ غُدْوَةً صَلىَّ عَلَيْهِ سَبْعُوْنَ أَلْفَ مَلَكٍ حَتَّى يُمْسِيَ، وَإِنْ كَانَ مَسَاءً صَلَّى عَلَيْهِ سَبْعُوْنَ أَلْفَ مَلَكٍ حَتَّى يُصْبِحَ",
         "keterangan": "Apabila seseorang menjenguk saudaranya yang muslim, maka ia seakan-akan berjalan di kebun surga hingga ia duduk. Apabila ia sudah duduk, maka rahmat Allah akan melimpahinya. Jika itu pagi hari, maka 70.000 malaikat bershalawat untuknya hingga sore, dan jika itu sore hari, maka 70.000 malaikat bershalawat untuknya hingga pagi.",
         "sumber": "HR. Tirmidzi, Ibnu Majah, dan Ahmad"
       }
@@ -818,7 +821,7 @@
     "kategori": "DOA SAAT TERKENA MUSIBAH",
     "data_doa": [
       {
-        "no": 151,
+        "no": 97,
         "arab": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُوْنَ، اَللَّهُمَّ أْجُرْنِيْ فِيْ مُصِيْبَتِيْ وَأَخْلِفْ لِيْ خَيْرًا مِنْهَا",
         "terjemahan": "Sesungguhnya kami milik Allah dan kepada-Nya kami kembali. Ya Allah, berilah pahala kepadaku dalam musibahku ini dan berilah ganti kepadaku yang lebih baik darinya",
         "sumber": "HR. Muslim: 2/632"
@@ -829,7 +832,7 @@
     "kategori": "DOA APABILA MELIHAT ORANG YANG MENGALAMI COBAAN/MUSIBAH",
     "data_doa": [
       {
-        "no": 204,
+        "no": 98,
         "arab": "اَلْحَمْدُ لِلَّهِ الَّذِيْ عَافَانِيْ مِمَّا ابْتَلاَكَ بِهِ وَفَضَّلَنِيْ عَلَى كَثِيْرٍ مِمَّنْ خَلَقَ تَفْضِيْلاً",
         "terjemahan": "Segala puji bagi Allah yang telah menyelamatkan aku dari musibah yang menimpamu dan benar-benar memuliakan aku atas banyak makhluk-Nya",
         "sumber": "HR. Tirmidzi: 5/493-494"
@@ -840,7 +843,7 @@
     "kategori": "DOA TAKZIAH",
     "data_doa": [
       {
-        "no": 159,
+        "no": 99,
         "arab": "إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلُّ شَيْءٍ عِنْدَهُ بِأَجَلٍ مُسَمًّى... فَلْتَصْبِرْ وَلْتَحْتَسِبْ",
         "terjemahan": "Sesungguhnya adalah milik Allah apa yang Dia ambil dan milik-Nya pulalah apa yang Dia berikan. Segala sesuatu di sisi-Nya telah ditetapkan ajalnya... maka bersabarlah dan haraplah pahala (dari Allah)",
         "sumber": "HR. Bukhari: 2/80 dan Muslim: 2/636 "
@@ -851,7 +854,7 @@
     "kategori": "DOA ZIARAH KUBUR",
     "data_doa": [
       {
-        "no": 163,
+        "no": 100,
         "arab": "السَّلاَمُ عَلَيْكُمْ أَهْلَ الدِّيَارِ، مِنَ الْمُؤْمِنِيْنَ وَالْمُسْلِمِيْنَ، وَإِنَّا إِنْ شَاءَ اللهُ بِكُمْ لاَحِقُوْنَ، (أَسْأَلُ اللهَ لَنَا وَلَكُمُ الْعَافِيَةَ)",
         "terjemahan": "Semoga kesejahteraan terlimpahkan kepada kamu sekalian, wahai penghuni kubur, dari kaum mukminin dan muslimin. Sesungguhnya kami -insya Allah- akan menyusulmu. (Aku memohon keselamatan kepada Allah untuk kami dan kamu sekalian)",
         "sumber": "HR. Muslim: 2/671 dan Ibnu Majah: 1/494 "
@@ -862,7 +865,7 @@
     "kategori": "DOA APABILA ADA ANGIN RIBUT",
     "data_doa": [
       {
-        "no": 164,
+        "no": 101,
         "arab": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ خَيْرَهَا، وَأَعُوْذُ بِكَ مِنْ شَرِّهَا",
         "terjemahan": "Ya Allah, sesungguhnya aku mohon kepada-Mu kebaikannya dan aku berlindung kepada-Mu dari keburukannya",
         "sumber": "HR. Abu Dawud: 4/326 dan Ibnu Majah: 2/1228 "
@@ -873,7 +876,7 @@
     "kategori": "DOA SAAT MENDENGAR PETIR",
     "data_doa": [
       {
-        "no": 166,
+        "no": 102,
         "arab": "سُبْحَانَ الَّذِيْ يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلاَئِكَةُ مِنْ خِيْفَتِهِ",
         "terjemahan": "Maha Suci Allah yang petir bertasbih dengan memuji-Nya, begitu juga para malaikat karena takut kepada-Nya",
         "sumber": "Muwaththa' Malik: 2/992. Al-Albani berkata: Hadits ini Mauquf yang shahih sanadnya "
@@ -884,7 +887,7 @@
     "kategori": "DOA UNTUK MINTA HUJAN (ISTISQA')",
     "data_doa": [
       {
-        "no": 167,
+        "no": 103,
         "arab": "اَللَّهُمَّ أَسْقِنَا غَيْثًا مُغِيْثًا مَرِيْئًا مَرِيْعًا، نَافِعًا غَيْرَ ضَارٍّ، عَاجِلاً غَيْرَ آجِلٍ",
         "terjemahan": "Ya Allah, siramilah kami dengan hujan yang menyelamatkan, menyegarkan, menyuburkan, bermanfaat, tidak membahayakan, segera datang dan tidak lambat",
         "sumber": "HR. Abu Dawud: 1/303 "
@@ -895,7 +898,7 @@
     "kategori": "DOA APABILA HUJAN TURUN",
     "data_doa": [
       {
-        "no": 169,
+        "no": 104,
         "arab": "اَللَّهُمَّ صَيِّبًا نَافِعًا",
         "terjemahan": "Ya Allah, jadikanlah hujan ini bermanfaat",
         "sumber": "HR. Bukhari dengan Fathul Bari: 2/518 "
@@ -906,7 +909,7 @@
     "kategori": "DOA AGAR HUJAN BERHENTI",
     "data_doa": [
       {
-        "no": 171,
+        "no": 105,
         "arab": "اَللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا، اَللَّهُمَّ عَلَى اْلآكَامِ وَالظِّرَابِ، وَبُطُوْنِ اْلأَوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ",
         "terjemahan": "Ya Allah, turunkanlah hujan di sekitar kami, bukan untuk merusak kami. Ya Allah, turunkanlah hujan ke dataran tinggi, bukit-bukit, perut lembah dan tempat tumbuhnya pepohonan",
         "sumber": "HR. Bukhari: 1/224 dan Muslim: 2/614 "
@@ -917,7 +920,7 @@
     "kategori": "DOA MELIHAT BULAN SABIT",
     "data_doa": [
       {
-        "no": 173,
+        "no": 106,
         "arab": "اَللهُ أَكْبَرُ، اَللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِاْلأَمْنِ وَاْلإِيْمَانِ، وَالسَّلاَمَةِ وَاْلإِسْلاَمِ، وَالتَّوْفِيْقِ لِمَا تُحِبُّ رَبَّنَا وَتَرْضَى، رَبُّنَا وَرَبُّكَ اللهُ",
         "terjemahan": "Allah Maha Besar. Ya Allah, terbitkanlah bulan sabit itu kepada kami dengan membawa keamanan dan keimanan, keselamatan dan Islam, serta taufiq untuk beramal sebagaimana yang Engkau cintai dan Engkau ridhai. Tuhan kami dan Tuhanmu (wahai bulan sabit) adalah Allah",
         "sumber": "HR. Tirmidzi: 5/504 dan Ad-Darimi: 1/336 "
@@ -928,7 +931,7 @@
     "kategori": "DOA KETIKA BERBUKA BAGI ORANG YANG BERPUASA",
     "data_doa": [
       {
-        "no": 174,
+        "no": 107,
         "arab": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوْقُ، وَثَبَتَ اْلأَجْرُ إِنْ شَاءَ اللهُ",
         "terjemahan": "Telah hilang rasa haus, dan urat-urat telah basah, serta pahala telah ditetapkan, insya Allah",
         "sumber": "HR. Abu Dawud: 2/306 "
@@ -939,13 +942,13 @@
     "kategori": "DOA SEBELUM MAKAN",
     "data_doa": [
       {
-        "no": 176,
+        "no": 108,
         "arab": "بِسْمِ اللهِ",
         "terjemahan": "Dengan nama Allah",
         "sumber": "HR. Abu Dawud: 3/347 dan Tirmidzi: 4/288 "
       },
       {
-        "no": 177,
+        "no": 109,
         "arab": "بِسْمِ اللهِ فِيْ أَوَّلِهِ وَآخِرِهِ",
         "terjemahan": "Dengan nama Allah di awal dan di akhirnya (dibaca jika lupa membaca di awal makan)",
         "sumber": "HR. Abu Dawud: 3/347 dan Tirmidzi: 4/288 "
@@ -956,7 +959,7 @@
     "kategori": "DOA SETELAH MAKAN",
     "data_doa": [
       {
-        "no": 179,
+        "no": 110,
         "arab": "اَلْحَمْدُ لِلَّهِ الَّذِيْ أَطْعَمَنِيْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلاَ قُوَّةٍ",
         "terjemahan": "Segala puji bagi Allah yang telah memberi makan ini kepadaku dan memberinya sebagai rezeki tanpa daya dan kekuatan dariku",
         "sumber": "HR. Seluruh penyusun kitab Sunan kecuali An-Nasa'i "
@@ -967,7 +970,7 @@
     "kategori": "DOA UNTUK ORANG YANG MEMBERI MINUM",
     "data_doa": [
       {
-        "no": 182,
+        "no": 111,
         "arab": "اَللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِيْ وَأَسْقِ مَنْ أَسْقَانِيْ",
         "terjemahan": "Ya Allah, berilah makan orang yang memberi makan kepadaku dan berilah minum orang yang memberi minum kepadaku",
         "sumber": "HR. Muslim: 3/1626 "
@@ -978,7 +981,7 @@
     "kategori": "DOA APABILA BERBUKA DI RUMAH ORANG LAIN",
     "data_doa": [
       {
-        "no": 183,
+        "no": 112,
         "arab": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُوْنَ، وَأَكَلَ طَعَامَكُمُ اْلأَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلاَئِكَةُ",
         "terjemahan": "Telah berbuka di tempatmu orang-orang yang puasa, dan telah makan makananmu orang-orang yang bakti (shalih), serta para malaikat mendoakan kalian",
         "sumber": "HR. Abu Dawud: 3/367 dan Ibnu Majah: 1/556 "
@@ -989,21 +992,21 @@
     "kategori": "DOA KETIKA BERSIN",
     "data_doa": [
       {
-        "no": 184,
+        "no": 113,
         "arab": "اَلْحَمْدُ لِلَّهِ",
         "terjemahan": "Segala puji bagi Allah",
         "keterangan": "Dibaca oleh orang yang bersin",
         "sumber": "HR. Bukhari: 7/125"
       },
       {
-        "no": 185,
+        "no": 114,
         "arab": "يَرْحَمُكَ اللهُ",
         "terjemahan": "Semoga Allah memberimu rahmat",
         "keterangan": "Jawaban dari orang yang mendengar (Tasymit)",
         "sumber": "HR. Bukhari: 7/125"
       },
       {
-        "no": 186,
+        "no": 115,
         "arab": "يَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ",
         "terjemahan": "Semoga Allah memberimu petunjuk dan memperbaiki keadaanmu",
         "keterangan": "Balasan kembali dari orang yang bersin",
@@ -1015,7 +1018,7 @@
     "kategori": "DOA KEPADA PENGANTIN",
     "data_doa": [
       {
-        "no": 188,
+        "no": 116,
         "arab": "بَارَكَ اللهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَمَعَ بَيْنَكُمَا فِيْ خَيْرٍ",
         "terjemahan": "Semoga Allah memberkahimu di waktu bahagia dan memberkahimu di waktu susah, serta semoga Allah menyatukan kalian berdua dalam kebaikan",
         "sumber": "HR. Seluruh penyusun kitab Sunan kecuali An-Nasa'i"
@@ -1026,7 +1029,7 @@
     "kategori": "DOA SEBELUM BERSETUBUH",
     "data_doa": [
       {
-        "no": 191,
+        "no": 117,
         "arab": "بِسْمِ اللهِ، اَللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا",
         "terjemahan": "Dengan nama Allah, ya Allah, jauhkanlah kami dari setan dan jauhkanlah setan dari apa yang Engkau rezekikan kepada kami (anak)",
         "sumber": "HR. Bukhari: 9/187 dan Muslim: 2/1028"
@@ -1037,7 +1040,7 @@
     "kategori": "DOA KETIKA MARAH",
     "data_doa": [
       {
-        "no": 192,
+        "no": 118,
         "arab": "أَعُوْذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
         "terjemahan": "Aku berlindung kepada Allah dari godaan setan yang terkutuk",
         "sumber": "HR. Bukhari: 7/99 dan Muslim: 4/2015"
@@ -1048,7 +1051,7 @@
     "kategori": "BACAAN DALAM MAJELIS / DOA KAFARATUL MAJELIS",
     "data_doa": [
       {
-        "no": 194,
+        "no": 119,
         "arab": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ",
         "terjemahan": "Maha Suci Engkau, ya Allah, aku memuji-Mu. Aku bersaksi bahwa tidak ada Tuhan yang berhak disembah selain Engkau, aku minta ampun dan bertaubat kepada-Mu",
         "sumber": "HR. Seluruh penyusun kitab Sunan"
@@ -1059,7 +1062,7 @@
     "kategori": "DOA NAIK KENDARAAN",
     "data_doa": [
       {
-        "no": 196,
+        "no": 120,
         "arab": "بِسْمِ اللهِ، اَلْحَمْدُ لِلَّهِ {سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ. وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ} اَلْحَمْدُ لِلَّهِ (3x) اَللهُ أَكْبَرُ (3x) سُبْحَانَكَ إِنِّيْ ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِيْ فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ",
         "terjemahan": "Dengan nama Allah, segala puji bagi Allah. Maha Suci Tuhan yang telah menundukkan semua ini bagi kami padahal kami sebelumnya tidak mampu menguasainya. Dan sesungguhnya kami akan kembali kepada Tuhan kami... Maha Suci Engkau, sesungguhnya aku telah mendzalimi diriku sendiri, maka ampunilah aku...",
         "sumber": "HR. Abu Dawud: 3/34 dan Tirmidzi: 5/501 "
@@ -1070,7 +1073,7 @@
     "kategori": "DOA BEPERGIAN (SAFAR)",
     "data_doa": [
       {
-        "no": 197,
+        "no": 121,
         "arab": "اَللهُ أَكْبَرُ (3x) {سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ. وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ} اَللَّهُمَّ إِنَّا نَسْأَلُكَ فِيْ سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى... اَللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيْفَةُ فِي اْلأَهْلِ...",
         "terjemahan": "Allah Maha Besar (3x)... Ya Allah, sesungguhnya kami memohon kebaikan dan takwa dalam perjalanan ini... Ya Allah, Engkaulah teman dalam perjalanan dan pengganti yang menjaga keluarga...",
         "sumber": "HR. Muslim: 2/998 "
@@ -1081,7 +1084,7 @@
     "kategori": "DOA MASUK DESA ATAU KOTA",
     "data_doa": [
       {
-        "no": 198,
+        "no": 122,
         "arab": "اَللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ اْلأَرَضِيْنَ السَّبْعِ وَمَا أَقْلَلْنَ... أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ وَخَيْرَ أَهْلِهَا، وَأَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ أَهْلِهَا وَشَرِّ مَا فِيْهَا",
         "terjemahan": "Ya Allah, Tuhan langit yang tujuh dan apa yang dinaunginya, Tuhan bumi yang tujuh dan apa yang didukungnya... Aku mohon kepada-Mu kebaikan desa ini dan kebaikan penduduknya...",
         "sumber": "HR. Al-Hakim dan Ibnu As-Sunni "
@@ -1092,7 +1095,7 @@
     "kategori": "DOA MASUK PASAR",
     "data_doa": [
       {
-        "no": 199,
+        "no": 123,
         "arab": "لاَ إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، يُحْيِيْ وَيُمِيْتُ، وَهُوَ حَيٌّ لاَ يَمُوْتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
         "terjemahan": "Tiada Tuhan yang berhak disembah selain Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian. Dia-lah yang menghidupkan dan yang mematikan, sedangkan Dia Maha Hidup dan tidak akan mati. Di tangan-Nya segala kebaikan dan Dia Maha Kuasa atas segala sesuatu",
         "sumber": "HR. Tirmidzi: 5/491 dan Al-Hakim: 1/538 "
@@ -1103,7 +1106,7 @@
     "kategori": "DOA APABILA BINATANG TUNGGANGAN TERGELINCIR",
     "data_doa": [
       {
-        "no": 200,
+        "no": 124,
         "arab": "بِسْمِ اللهِ",
         "terjemahan": "Dengan nama Allah",
         "sumber": "HR. Abu Dawud: 4/296 "
@@ -1114,7 +1117,7 @@
     "kategori": "DOA MUSAFIR KEPADA ORANG YANG DITINGGALKAN",
     "data_doa": [
       {
-        "no": 201,
+        "no": 125,
         "arab": "أَسْتَوْدِعُكُمُ اللهَ الَّذِيْ لاَ تَضِيْعُ وَدَائِعُهُ",
         "terjemahan": "Aku menitipkan kalian kepada Allah yang tidak akan hilang titipan-Nya",
         "sumber": "HR. Ahmad: 2/403 dan Ibnu Majah: 2/943 "
@@ -1125,7 +1128,7 @@
     "kategori": "DOA ORANG MUKIM KEPADA MUSAFIR",
     "data_doa": [
       {
-        "no": 202,
+        "no": 126,
         "arab": "أَسْتَوْدِعُ اللهَ دِيْنَكَ وَأَمَانَتَكَ وَخَوَاتِيْمَ عَمَلِكَ",
         "terjemahan": "Aku menitipkan kepada Allah agamamu, amanahmu dan akhir amalmu",
         "sumber": "HR. Ahmad: 2/7 dan Tirmidzi: 5/499 "
@@ -1133,12 +1136,13 @@
     ]
   },
   {
-    "kategori": "TAKDIR DAN TASBIH DALAM PERJALANAN",
+    "kategori": "TAKBIR DAN TASBIH DALAM PERJALANAN",
     "data_doa": [
       {
-        "no": 203,
+        "no": 127,
+        "arab": "قَالَ جَابِرٌ رَضِيَ اللهُ عَنْهُ: كُنَّا إِذَا صَعَدْنَا كَبَّرْنَا، وَإِذَا نَزَلْنَا سَبَّحْنَا",
         "keterangan": "Jabir radhiyallahu 'anhu berkata: Apabila kami berjalan mendaki, kami bertakbir (Allahu Akbar), dan apabila kami menuruni (lembah), kami bertasbih (Subhanallah).",
-        "sumber": "HR. Bukhari: 2/1188 "
+        "sumber": "HR. Bukhari: 2/1188"
       }
     ]
   },
@@ -1146,7 +1150,7 @@
     "kategori": "DOA APABILA MENDIAMI SUATU TEMPAT (DALAM BEPERGIAN ATAU TIDAK)",
     "data_doa": [
       {
-        "no": 206,
+        "no": 128,
         "arab": "أَعُوْذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
         "terjemahan": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa yang diciptakan-Nya",
         "sumber": "HR. Muslim: 4/2080 "
@@ -1157,7 +1161,7 @@
     "kategori": "DOA APABILA PULANG DARI BEPERGIAN",
     "data_doa": [
       {
-        "no": 207,
+        "no": 129,
         "arab": "آيِبُوْنَ تَائِبُوْنَ عَابِدُوْنَ لِرَبِّنَا حَامِدُوْنَ",
         "terjemahan": "Kami kembali dengan bertaubat, tetap beribadah dan hanya kepada Tuhan kami, kami memuji",
         "sumber": "HR. Muslim: 2/998 "
@@ -1168,7 +1172,7 @@
     "kategori": "DOA MUSAFIR KETIKA MENJELANG SUBUH",
     "data_doa": [
       {
-        "no": 205,
+        "no": 130,
         "arab": "سَمِعَ سَامِعٌ بِحَمْدِ اللهِ، وَحُسْنِ بَلاَئِهِ عَلَيْنَا. رَبَّنَا صَاحِبْنَا، وَأَفْضِلْ عَلَيْنَا، عَائِذًا بِاللهِ مِنَ النَّارِ",
         "terjemahan": "Semoga ada yang mendengar (dan menyampaikan) pujian kami kepada Allah (atas nikmat-Nya) dan cobaan-Nya yang baik bagi kami. Wahai Tuhan kami, temanilah kami (peliharalah kami) dan berilah keutamaan kepada kami dengan berlindung kepada Allah dari api neraka",
         "sumber": "HR. Muslim: 4/2086 "
@@ -1179,13 +1183,13 @@
     "kategori": "BACAAN APABILA ADA SESUATU YANG MENYENANGKAN ATAU MENYUSAHKAN",
     "data_doa": [
       {
-        "no": 208,
+        "no": 131,
         "arab": "اَلْحَمْدُ لِلَّهِ الَّذِيْ بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
         "terjemahan": "Segala puji bagi Allah yang dengan nikmat-Nya kebaikan-kebaikan menjadi sempurna (dibaca saat senang)",
         "sumber": "HR. Ibnu As-Sunni dan Al-Hakim "
       },
       {
-        "no": 209,
+        "no": 132,
         "arab": "اَلْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ",
         "terjemahan": "Segala puji bagi Allah dalam setiap keadaan (dibaca saat susah)",
         "sumber": "HR. Ibnu As-Sunni dan Shahihul Jami': 4/201 "
@@ -1196,7 +1200,7 @@
     "kategori": "KEUTAMAAN MEMBACA SHALAWAT",
     "data_doa": [
       {
-        "no": 210,
+        "no": 133,
         "arab": "مَنْ صَلَّى عَلَيَّ صَلاَةً صَلَّى اللهُ عَلَيْهِ بِهَا عَشْرًا",
         "terjemahan": "Barangsiapa yang bershalawat kepadaku sekali, maka Allah akan bershalawat kepadanya sepuluh kali",
         "sumber": "HR. Muslim: 1/288 "
@@ -1207,9 +1211,10 @@
     "kategori": "MENYEBARKAN SALAM",
     "data_doa": [
       {
-        "no": 211,
+        "no": 134,
+        "arab": "قَالَ ﷺ: لاَ تَدْخُلُوا الْجَنَّةَ حَتَّى تُؤْمِنُوْا، وَلاَ تُؤْمِنُوْا حَتَّى تَحَابُّوْا، أَوَلاَ أَدُلُّكُمْ عَلَى شَيْءٍ إِذَا فَعَلْتُمُوْهُ تَحَابَبْتُمْ، أَفْشُوا السَّلاَمَ بَيْنَكُمْ",
         "keterangan": "Rasulullah ﷺ bersabda: Kalian tidak akan masuk surga hingga kalian beriman, dan kalian tidak beriman hingga kalian saling mencintai. Maukah aku tunjukkan sesuatu yang jika kalian kerjakan kalian akan saling mencintai? Sebarkanlah salam di antara kalian.",
-        "sumber": "HR. Muslim: 1/74 "
+        "sumber": "HR. Muslim: 1/74"
       }
     ]
   },
@@ -1217,7 +1222,7 @@
     "kategori": "APABILA ADA ORANG KAFIR MENGUCAPKAN SALAM",
     "data_doa": [
       {
-        "no": 212,
+        "no": 135,
         "arab": "وَعَلَيْكُمْ",
         "terjemahan": "Dan atas kamu juga",
         "sumber": "HR. Bukhari: 4/179 dan Muslim: 4/1705"
@@ -1228,8 +1233,9 @@
     "kategori": "PETUNJUK KETIKA MENDENGAR KOKOK AYAM DAN RINGKIKAN KELEDAI",
     "data_doa": [
       {
-        "no": 213,
-        "keterangan": "Apabila mendengar ayam berkokok, mintalah anugerah kepada Allah (karena ia melihat malaikat). Apabila mendengar keledai meringkik, berlindunglah kepada Allah dari setan (karena ia melihat setan).",
+        "no": 136,
+        "arab": "إِذَا سَمِعْتُمْ صِيَاحَ الدِّيْكَةِ فَاسْأَلُوا اللهَ مِنْ فَضْلِهِ، فَإِنَّهَا رَأَتْ مَلَكًا، وَإِذَا سَمِعْتُمْ نَهِيْقَ الْحِمَارِ فَتَعَوَّذُوْا بِاللهِ مِنَ الشَّيْطَانِ، فَإِنَّهُ رَأَى شَيْطَانًا",
+"keterangan": "Apabila mendengar ayam berkokok, mintalah anugerah kepada Allah (karena ia melihat malaikat). Apabila mendengar keledai meringkik, berlindunglah kepada Allah dari setan (karena ia melihat setan).",
         "sumber": "HR. Bukhari: 6/350 dan Muslim: 4/2092"
       }
     ]
@@ -1238,8 +1244,9 @@
     "kategori": "PETUNJUK APABILA MENDENGAR ANJING MENGGONGGONG",
     "data_doa": [
       {
-        "no": 214,
-        "keterangan": "Apabila mendengar gonggongan anjing atau ringkikan keledai di malam hari, maka bacalah ta'awudz (A'udzu billah...), karena mereka melihat apa yang tidak kamu lihat.",
+        "no": 137,
+        "arab": "إِذَا سَمِعْتُمْ نُبَاحَ الْكِلاَبِ وَنَهِيْقَ الْحَمِيْرِ بِاللَّيْلِ فَتَعَوَّذُوْا بِاللهِ مِنْهُنَّ فَإِنَّهُنَّ يَرَيْنَ مَا لاَ تَرَوْنَ",
+"keterangan": "Apabila mendengar gonggongan anjing atau ringkikan keledai di malam hari, maka bacalah ta'awudz (A'udzu billah...), karena mereka melihat apa yang tidak kamu lihat.",
         "sumber": "HR. Abu Dawud: 4/327 dan Ahmad: 3/306"
       }
     ]
@@ -1248,7 +1255,7 @@
     "kategori": "MENDOAKAN ORANG YANG ANDA CACI",
     "data_doa": [
       {
-        "no": 215,
+        "no": 138,
         "arab": "اَللَّهُمَّ فَأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إِلَيْكَ يَوْمَ الْقِيَامَةِ",
         "terjemahan": "Ya Allah, siapa pun mukmin yang aku caci, maka jadikanlah itu sebagai sarana yang mendekatkan dirinya kepada-Mu di hari kiamat nanti",
         "sumber": "HR. Bukhari: 7/157 dan Muslim: 4/2007"
@@ -1259,7 +1266,7 @@
     "kategori": "BACAAN BILA DIPUJI ORANG",
     "data_doa": [
       {
-        "no": 217,
+        "no": 139,
         "arab": "اَللَّهُمَّ لاَ تُؤَاخِذْنِيْ بِمَا يَقُوْلُوْنَ، وَاغْفِرْ لِيْ مَا لاَ يَعْلَمُوْنَ (وَاجْعَلْنِيْ خَيْرًا مِمَّا يَظُنُّوْنَ)",
         "terjemahan": "Ya Allah, janganlah Engkau hukum aku karena apa yang mereka katakan. Ampunilah aku atas apa yang tidak mereka ketahui (dan jadikanlah aku lebih baik dari apa yang mereka duga)",
         "sumber": "HR. Bukhari dalam Al-Adab Al-Mufrad: 761"
@@ -1270,7 +1277,7 @@
     "kategori": "BACAAN TALBIYAH",
     "data_doa": [
       {
-        "no": 218,
+        "no": 140,
         "arab": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيْكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لاَ شَرِيْكَ لَكَ",
         "terjemahan": "Aku datang memenuhi panggilan-Mu, ya Allah, aku datang memenuhi panggilan-Mu. Aku datang memenuhi panggilan-Mu, tiada sekutu bagi-Mu, aku datang memenuhi panggilan-Mu. Sesungguhnya segala puji, nikmat, dan kerajaan adalah milik-Mu, tiada sekutu bagi-Mu",
         "sumber": "HR. Bukhari: 3/148 dan Muslim: 2/841"
@@ -1281,8 +1288,9 @@
     "kategori": "BERTAKBIR PADA SETIAP DATANG KE RUKUN HAJAR ASWAD",
     "data_doa": [
       {
-        "no": 219,
-        "keterangan": "Nabi ﷺ melakukan thawaf di Baitullah di atas unta. Setiap kali datang ke rukun (Hajar Aswad), beliau memberi isyarat dengan sesuatu yang ada di tangannya dan bertakbir (Allahu Akbar).",
+        "no": 141,
+        "arab": "طَافَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِالْبَيْتِ عَلَى بَعِيْرٍ كُلَّمَا أَتَى الرُّكْنَ أَشَارَ إِلَيْهِ بِشَيْءٍ عِنْدَهُ وَكَبَّرَ.",
+"keterangan": "Nabi ﷺ melakukan thawaf di Baitullah di atas unta. Setiap kali datang ke rukun (Hajar Aswad), beliau memberi isyarat dengan sesuatu yang ada di tangannya dan bertakbir (Allahu Akbar).",
         "sumber": "HR. Bukhari: 3/476 "
       }
     ]
@@ -1291,7 +1299,7 @@
     "kategori": "DOA ANTARA RUKUN YAMANI DAN HAJAR ASWAD",
     "data_doa": [
       {
-        "no": 220,
+        "no": 142,
         "arab": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي اْلآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
         "terjemahan": "Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari siksa neraka",
         "sumber": "HR. Abu Dawud: 2/179 dan Ahmad: 3/411 "
@@ -1302,7 +1310,7 @@
     "kategori": "BACAAN KETIKA DI ATAS BUKIT SHAFA DAN MARWAH",
     "data_doa": [
       {
-        "no": 221,
+        "no": 143,
         "arab": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللهِ... أَبْدَأُ بِمَا بَدَأَ اللهُ بِهِ",
         "terjemahan": "Sesungguhnya Shafa dan Marwah adalah sebagian dari syiar Allah... Aku memulai dengan apa yang Allah memulai dengannya",
         "keterangan": "Membaca doa ini saat mendekati bukit Shafa sebelum mendakinya. Setelah di atas bukit, menghadap Kiblat dan membaca Tauhid serta Takbir.",
@@ -1314,7 +1322,7 @@
     "kategori": "DOA PADA HARI ARAFAH",
     "data_doa": [
       {
-        "no": 222,
+        "no": 144,
         "arab": "لاَ إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
         "terjemahan": "Tiada Tuhan yang berhak disembah selain Allah, Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan puja-puji. Dan Dia Maha Kuasa atas segala sesuatu",
         "sumber": "HR. Tirmidzi dan Ahmad. Sebaik-baik doa adalah doa pada hari Arafah "
@@ -1325,17 +1333,19 @@
     "kategori": "BACAAN DI MASY'ARIL HARAM",
     "data_doa": [
       {
-        "no": 223,
-        "keterangan": "Nabi ﷺ naik kendaraan (Al-Qashwa') hingga tiba di Masy'aril Haram, lalu menghadap kiblat, berdoa, bertakbir, bertahlil dan mengesakan-Nya. Beliau terus berdiri hingga fajar menyingsing.",
+        "no": 145,
+        "arab": "رَكِبَ الْقَصْوَاءَ حَتَّى أَتَى الْمَشْعَرَ الْحَرَامَ فَاسْتَقْبَلَ الْقِبْلَةَ (فَدَعَاهُ وَكَبَّرَهُ وَهَلَّلَهُ وَوَحَّدَهُ) فَلَمْ يَزَلْ وَاقِفًا حَتَّى أَسْفَرَ جِدًّا فَدَفَعَ قَبْلَ أَنْ تَطْلُعَ الشَّمْسُ.",
+"keterangan": "Nabi ﷺ naik kendaraan (Al-Qashwa') hingga tiba di Masy'aril Haram, lalu menghadap kiblat, berdoa, bertakbir, bertahlil dan mengesakan-Nya. Beliau terus berdiri hingga fajar menyingsing.",
         "sumber": "HR. Muslim: 2/891 "
       }
     ]
   },
   {
-    "kategori": "BERTAKBIR PADA SETIAP MELEMBAR JUMRAH",
+    "kategori": "BERTAKBIR PADA SETIAP MELEMPAR JUMRAH",
     "data_doa": [
       {
-        "no": 224,
+        "no": 146,
+        "arab": "الله أكبر",
         "keterangan": "Bertakbir (Allahu Akbar) setiap kali melempar batu kecil ke arah Jumrah. Kemudian setelah melempar Jumrah pertama dan kedua, disunnahkan maju sedikit lalu berdiri lama menghadap kiblat untuk berdoa dengan mengangkat tangan. Adapun untuk Jumrah Aqabah, setelah melempar tidak disunnahkan berhenti untuk berdoa.",
         "sumber": "HR. Bukhari: 3/583 dan Muslim: 2/941 "
       }
@@ -1345,7 +1355,7 @@
     "kategori": "BACAAN KETIKA KAGUM TERHADAP SESUATU",
     "data_doa": [
       {
-        "no": 225,
+        "no": 147,
         "arab": "سُبْحَانَ اللهِ! (atau) اَللهُ أَكْبَرُ!",
         "terjemahan": "Maha Suci Allah! / Allah Maha Besar!",
         "sumber": "HR. Bukhari: 1/210 dan Muslim: 4/2092 "
@@ -1356,7 +1366,8 @@
     "kategori": "BACAAN DAN PERBUATAN APABILA MERASA SAKIT PADA ANGGOTA BADAN",
     "data_doa": [
       {
-        "no": 227,
+        "no": 148,
+        "arab": "bacalah: بِسْمِ اللهِ (3x), kemudian bacalah: أَعُوْذُ بِاللهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ (7x)",
         "keterangan": "Letakkan tanganmu pada anggota badan yang sakit lalu bacalah: بِسْمِ اللهِ (3x), kemudian bacalah: أَعُوْذُ بِاللهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ (7x)",
         "terjemahan": "Dengan nama Allah (3x). Aku berlindung kepada Allah dan kekuasaan-Nya dari kejahatan sesuatu yang aku jumpai dan aku takuti (7x)",
         "sumber": "HR. Muslim: 4/1728 "
@@ -1367,7 +1378,7 @@
     "kategori": "BACAAN KETIKA TAKUT",
     "data_doa": [
       {
-        "no": 230,
+        "no": 149,
         "arab": "لاَ إِلَهَ إِلاَّ اللهُ",
         "terjemahan": "Tiada Tuhan yang berhak disembah selain Allah",
         "sumber": "HR. Bukhari: 6/338 dan Muslim: 4/2208 "
@@ -1378,7 +1389,7 @@
     "kategori": "BACAAN KETIKA MENYEMBELIH KURBAN",
     "data_doa": [
       {
-        "no": 231,
+        "no": 150,
         "arab": "بِسْمِ اللهِ وَاللهُ أَكْبَرُ، اَللَّهُمَّ مِنْكَ وَلَكَ، اَللَّهُمَّ تَقَبَّلْ مِنِّيْ",
         "terjemahan": "Dengan nama Allah, dan Allah Maha Besar. Ya Allah, (binatang ini) dari-Mu dan untuk-Mu. Ya Allah, terimalah (kurban ini) dariku",
         "sumber": "HR. Muslim: 3/1557 dan Ahmad: 2/78 "
@@ -1389,7 +1400,7 @@
     "kategori": "DOA MENOLAK GANGGUAN SETAN",
     "data_doa": [
       {
-        "no": 232,
+        "no": 151,
         "arab": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ مِنْ شَرِّ مَا خَلَقَ، وَبَرَأَ وَذَرَأَ، وَمِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ... (doa panjang)",
         "terjemahan": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna, yang tidak dapat ditembus oleh orang baik maupun orang jahat, dari kejahatan apa yang diciptakan-Nya... dari kejahatan yang turun dari langit dan yang naik ke dalamnya...",
         "sumber": "HR. Ahmad: 3/419 dan Ibnu As-Sunni: 637"
@@ -1400,13 +1411,13 @@
     "kategori": "ISTIGHFAR DAN TAUBAT",
     "data_doa": [
       {
-        "no": 233,
+        "no": 152,
         "arab": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ (100x sehari)",
         "terjemahan": "Aku memohon ampun kepada Allah dan bertaubat kepada-Nya",
         "sumber": "HR. Bukhari: 7/168 dan Muslim: 4/2071"
       },
       {
-        "no": 234,
+        "no": 153,
         "arab": "رَبِّ اغْفِرْ لِي، وَتُبْ عَلَيَّ، إِنَّكَ أَنْتَ التَّوَّابُ الْغَفُورُ",
         "terjemahan": "Wahai Tuhanku, ampunilah dosaku dan terimalah taubatku, sesungguhnya Engkau Maha Penerima Taubat lagi Maha Pengampun",
         "sumber": "HR. Seluruh penyusun kitab Sunan"
@@ -1417,21 +1428,21 @@
     "kategori": "KEUTAMAAN TASBIH, TAHMID, TAHLIL DAN TAKBIR",
     "data_doa": [
       {
-        "no": 235,
+        "no": 154,
         "arab": "سُبْحَانَ اللهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللهُ وَاللهُ أَكْبَرُ",
         "terjemahan": "Maha Suci Allah, segala puji bagi Allah, tiada Tuhan yang berhak disembah selain Allah dan Allah Maha Besar",
         "keterangan": "Rasulullah ﷺ bersabda: Membaca ini lebih aku cintai daripada apa yang disinari oleh matahari (dunia dan isinya).",
         "sumber": "HR. Muslim: 4/2072"
       },
       {
-        "no": 254,
+        "no": 155,
         "arab": "لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ",
         "terjemahan": "Tiada daya dan kekuatan kecuali dengan pertolongan Allah",
         "keterangan": "Merupakan salah satu harta karun (simpanan) di surga.",
         "sumber": "HR. Bukhari: 11/213 dan Muslim: 4/2076"
       },
       {
-        "no": 255,
+        "no": 156,
         "arab": "سُبْحَانَ اللهِ وَبِحَمْدِهِ، سُبْحَانَ اللهِ الْعَظِيْمِ",
         "terjemahan": "Maha Suci Allah dengan memuji-Nya, Maha Suci Allah Yang Maha Agung",
         "keterangan": "Dua kalimat yang ringan di lisan, berat di timbangan (mizan), dan dicintai oleh Ar-Rahman.",
@@ -1443,7 +1454,7 @@
     "kategori": "BACAAN PENUTUP",
     "data_doa": [
       {
-        "no": 267,
+        "no": 157,
         "arab": "أَسْتَغْفِرُ اللهَ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
         "terjemahan": "Aku memohon ampun kepada Allah yang tiada Tuhan selain Dia, Yang Maha Hidup lagi Berdiri Sendiri, dan aku bertaubat kepada-Nya",
         "keterangan": "Siapa yang membacanya, maka akan diampuni dosanya meskipun ia lari dari medan perang.",
