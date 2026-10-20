@@ -1,0 +1,10 @@
+cd "/storage/emulated/0/Jstudio Project/ALIBANAH"
+
+# 1. Simpan semua perubahan terbaru
+git add .
+
+# 2. Buat pesan update
+git commit -m "Update aplikasi ke versi 1.0.5"
+
+# 3. Kirim ke GitHub untuk memicu build otomatis
+git push -u origin main
